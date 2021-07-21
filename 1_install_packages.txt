@@ -1,0 +1,6 @@
+# conda create -n pointnet python=3.6
+# activate pointnet
+# conda install jupyter
+# conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+# pip install tqdm
+# pip install h5py
